@@ -10,7 +10,7 @@ package factorypattern;
  * @author HP
  */
 public abstract class Auto {
-    private Motor motor;
+    private Motor motor ;//o
     private Carrosserie carrosserie;
     private Interieur interieur;
     
